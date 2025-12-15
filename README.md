@@ -1,5 +1,4 @@
 # PROVA PGPD — PROJETO JAVA  
-## NetBeans | Maven
 
 ---
 
