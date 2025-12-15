@@ -25,7 +25,6 @@ prova/
 │ └── tarefa4/ # Implementação da Tarefa 4
 └── target/ # Gerado automaticamente pelo Maven (não versionado)
 
-
 ---
 
 ## 3. COMPILAÇÃO DO PROJETO
