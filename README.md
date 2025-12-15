@@ -1,14 +1,18 @@
-# Prova-PGPD
+# PROVA PGPD — PROJETO JAVA  
+## NetBeans | Maven
 
-📋 Requisitos
+---
 
-Java (JDK): versão utilizada no NetBeans (ex.: JDK 17)
+## 1. REQUISITOS
 
-Apache NetBeans (IDE)
+- Java (JDK): versão utilizada no NetBeans (ex.: JDK 17)
+- Apache NetBeans (IDE)
+- Maven (embutido no NetBeans)
 
-Maven (embutido no NetBeans)
+---
 
-🗂️ Estrutura do Projeto
+## 2. ESTRUTURA DO PROJETO
+
 prova/
 ├── pom.xml                 # Configuração do Maven
 ├── nbactions.xml           # Ações de execução do NetBeans
@@ -21,32 +25,31 @@ prova/
 │           └── tarefa4/    # Implementação da Tarefa 4
 └── target/                 # Gerado automaticamente pelo Maven (não versionado)
 
-⚙️ Compilação do Projeto
 
-A compilação é realizada automaticamente pelo NetBeans.
+---
 
-🔹 Compilação manual
+## 3. COMPILAÇÃO DO PROJETO
 
-Abra o projeto no NetBeans
+A compilação do projeto é realizada automaticamente pelo NetBeans.
 
-Clique com o botão direito no projeto
+### Compilação manual
+1. Abra o projeto no NetBeans  
+2. Clique com o botão direito no projeto  
+3. Selecione a opção **Build**
 
-Selecione Build
+O NetBeans utiliza o Maven para compilar o código-fonte.
 
-O NetBeans utilizará o Maven para compilar o código-fonte.
+---
 
-▶️ Execução do Projeto
+## 4. EXECUÇÃO DO PROJETO
 
-A execução é feita exclusivamente pelo NetBeans.
+A execução do projeto é feita exclusivamente pelo NetBeans.
 
-🔹 Executar uma tarefa específica
+### Executar uma tarefa específica
+1. No NetBeans, navegue até `src/main/java`  
+2. Abra o pacote da tarefa desejada (`tarefa1`, `tarefa2`, etc.)  
+3. Clique com o botão direito na classe `Main`  
+4. Selecione a opção **Run File**
 
-No NetBeans, navegue até src/main/java
+Cada tarefa possui sua própria classe `Main`, conforme solicitado no enunciado da prova.
 
-Abra o pacote da tarefa desejada (tarefa1, tarefa2, etc.)
-
-Clique com o botão direito na classe Main
-
-Selecione Run File
-
-Cada tarefa possui sua própria classe Main, conforme solicitado no enunciado da prova.
