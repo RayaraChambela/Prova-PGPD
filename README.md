@@ -14,16 +14,16 @@
 ## 2. ESTRUTURA DO PROJETO
 
 prova/
-├── pom.xml                 # Configuração do Maven
-├── nbactions.xml           # Ações de execução do NetBeans
+├── pom.xml # Configuração do Maven
+├── nbactions.xml # Ações de execução do NetBeans
 ├── src/
-│   └── main/
-│       └── java/
-│           ├── tarefa1/    # Implementação da Tarefa 1
-│           ├── tarefa2/    # Implementação da Tarefa 2
-│           ├── tarefa3/    # Implementação da Tarefa 3
-│           └── tarefa4/    # Implementação da Tarefa 4
-└── target/                 # Gerado automaticamente pelo Maven (não versionado)
+│ └── main/
+│ └── java/
+│ ├── tarefa1/ # Implementação da Tarefa 1
+│ ├── tarefa2/ # Implementação da Tarefa 2
+│ ├── tarefa3/ # Implementação da Tarefa 3
+│ └── tarefa4/ # Implementação da Tarefa 4
+└── target/ # Gerado automaticamente pelo Maven (não versionado)
 
 
 ---
