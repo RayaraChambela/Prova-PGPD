@@ -28,7 +28,7 @@ prova/
 └── target/                 # Gerado automaticamente pelo Maven (não versionado)
 
 
----
+```
 
 ## 3. COMPILAÇÃO DO PROJETO
 
