@@ -70,8 +70,3 @@ A solução baseada em monitores (Tarefa 4) mostrou-se a mais robusta, garantind
 
 A Tarefa 3 representa um bom compromisso entre simplicidade e controle de concorrência, enquanto a Tarefa 2 é adequada apenas para cenários mais simples, nos quais fairness não é um requisito crítico.
 
-
-## Conclusão
-
-A solução baseada em monitores (Tarefa 4) mostrou-se a mais robusta, garantindo simultaneamente prevenção de deadlock, ausência de starvation, alta taxa de utilização dos recursos e distribuição justa das oportunidades. Apesar de sua maior complexidade, é a abordagem mais adequada para cenários onde fairness e previsibilidade são requisitos essenciais. A Tarefa 3 representa um bom compromisso entre simplicidade e controle, enquanto a Tarefa 2 é adequada apenas para cenários mais simples, onde fairness não é um requisito crítico.
-
