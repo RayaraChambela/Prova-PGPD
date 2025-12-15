@@ -1,7 +1,6 @@
 # Prova-PGPD
 
-Prova PGPD — Projeto Java (NetBeans / Maven)
-Requisitos
+📋 Requisitos
 
 Java (JDK): versão utilizada no NetBeans (ex.: JDK 17)
 
@@ -9,7 +8,7 @@ Apache NetBeans (IDE)
 
 Maven (embutido no NetBeans)
 
-Estrutura do projeto
+🗂️ Estrutura do Projeto
 prova/
 ├── pom.xml                 # Configuração do Maven
 ├── nbactions.xml           # Ações de execução do NetBeans
@@ -22,11 +21,11 @@ prova/
 │           └── tarefa4/    # Implementação da Tarefa 4
 └── target/                 # Gerado automaticamente pelo Maven (não versionado)
 
-Compilação do projeto
+⚙️ Compilação do Projeto
 
-A compilação é feita automaticamente pelo NetBeans.
+A compilação é realizada automaticamente pelo NetBeans.
 
-Para compilar manualmente:
+🔹 Compilação manual
 
 Abra o projeto no NetBeans
 
@@ -36,11 +35,11 @@ Selecione Build
 
 O NetBeans utilizará o Maven para compilar o código-fonte.
 
-Execução do projeto
+▶️ Execução do Projeto
 
 A execução é feita exclusivamente pelo NetBeans.
 
-Executar uma tarefa específica
+🔹 Executar uma tarefa específica
 
 No NetBeans, navegue até src/main/java
 
