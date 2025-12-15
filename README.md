@@ -52,3 +52,6 @@ A execução do projeto é feita exclusivamente pelo NetBeans.
 
 Cada tarefa possui sua própria classe `Main`, conforme solicitado no enunciado da prova.
 
+---
+
+Link documentação técnica de cada uma das tarefas: https://docs.google.com/document/d/195qyDZSTqjExJnCcQePMwNbCw4xOHtKCnutziID8cjE/edit?usp=sharing
